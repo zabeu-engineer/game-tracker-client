@@ -47,8 +47,8 @@ Concepts explored in this repository include:
 | React | UI library |
 | TypeScript | Type-safe JavaScript |
 | Vite | Fast development build tool |
-| Axios / Fetch | HTTP client |
-| CSS / Tailwind (optional) | Styling |
+| Tanstack Query | HTTP client & Caching |
+| CSS Modules | Styling |
 | ESLint | Code quality |
 | Prettier | Code formatting |
 
